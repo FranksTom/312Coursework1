@@ -1,0 +1,77 @@
+312START
+
+312FILE Programs Folder/program0
+peekaboocall
+Error.
+Error.
+312SUCCESS
+
+312FILE Programs Folder/program1
+peekaboocall
+Error.
+Error.
+312SUCCESS
+
+312FILE Programs Folder/program2
+Error.
+peekaboobegim
+Error.
+Error.
+312SUCCESS
+
+312FILE Programs Folder/program3
+peekaboocall
+Error.
+Error.
+312SUCCESS
+
+312FILE Programs Folder/program4
+peekaboocall
+Error.
+Error.
+312SUCCESS
+
+312FILE Programs Folder/program5
+peekaboocall
+Error.
+Error.
+312SUCCESS
+
+312FILE Programs Folder/program6
+peekaboocall
+Error.
+Error.
+312SUCCESS
+
+312FILE Programs Folder/program7
+peekaboocall
+Error.
+Error.
+312SUCCESS
+
+312FILE Programs Folder/program8
+peekaboocall
+Error.
+Error.
+312SUCCESS
+
+312FILE Programs Folder/program9
+peekaboocall
+Error.
+Error.
+312SUCCESS
+
+312FILE Programs Folder/program10
+peekaboocall
+Error.
+Error.
+312SUCCESS
+
+312FILE Programs Folder/program11
+peekaboocall
+Error.
+Error.
+312SUCCESS
+Programs Folder/program12 does not exist
+
+312FINISH
